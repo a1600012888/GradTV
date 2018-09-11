@@ -1,0 +1,10 @@
+*.so
+*.o
+*.pyc
+*log
+*.log
+.idea
+*.png
+*exp*
+__pycache__
+core
